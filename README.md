@@ -1,4 +1,4 @@
-Updated at 3:28 AM on 21.12.10.
+Updated at 4:12 AM on 21.12.10.
 
 ## 데이터 분석과 과학을 위한 수학
 
